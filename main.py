@@ -37,7 +37,7 @@ def _binary_search(mylist, key, left, right):
 	###
 
 
-
+# test comment
 
 def time_search(search_fn, mylist, key):
 	"""
